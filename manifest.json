@@ -1,0 +1,7 @@
+{
+  "name": "VC Reconnect",
+  "version": "1.0.0",
+  "description": "A powercord plugin that will attempt to disconnect/rejoin a voice chat if ping goes above a certain threshold.",
+  "author": "sadistik#7060",
+  "license": "MIT"
+}
