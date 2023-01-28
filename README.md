@@ -1,4 +1,6 @@
 # powercord-vc-reconnect
+Since Powercord has reached EOL, this repository is now archived.
+
 A powercord plugin that will attempt to disconnect/rejoin a voice chat if ping goes above a certain threshold.
 
 This plugin was created to solve a specific ping spike issue with Discord. When reconnecting, Discord will find a new route/new server as an attempt to fix massive ping spikes.
